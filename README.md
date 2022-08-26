@@ -48,7 +48,7 @@ Out of the 14 features given in the datasets 7 are Continuous and 7 (including t
 
 # 🎉 Approach (Architecture):
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/84115928/186950659-5e8b6b9f-0fc3-48c6-be1b-f06ca1b0f64b.png">
+  <img width="650" height="375" src="https://user-images.githubusercontent.com/84115928/186950659-5e8b6b9f-0fc3-48c6-be1b-f06ca1b0f64b.png">
 </p>
 
 # 🖥️ Technologies:
