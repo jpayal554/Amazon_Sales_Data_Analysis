@@ -68,6 +68,13 @@ Out of the 14 features given in the datasets 7 are Continuous and 7 (including t
 For more details, please go through the Web link given below -
 * [Amazon Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ4OTc0ZjYtZWQwYy00ZmM2LWFjMzktOWZkM2VmYWVmZmNmIiwidCI6IjYzYzJjYWI2LWVmOTEtNDk3My05ZTUyLTQ1NDM1MTY5ZTk1MSIsImMiOjEwfQ%3D%3D)
 
+# 💡 Conclusions
+* In terms of Positive Summary - "Good", "love", "Delicious", "Best", "Great Product", "Excellent", etc. All these kinds of 'Positive Keywords' has a 'Higher Priority' than all other Words.
+* In terms of Negative Summary - "Disappointed", "bad", "taste", "little", "expensive", "horrible", "terrible", "expected", "flavor", "little", etc. are these kind of Negative Keywords "Customers" are going to prefer.
+* Almost "50%" Users were prefered to give their "feedback" almost in "50 Words", whereas there are only few Users who are going to give a "Lengthy Feedback's".
+* Most of the Customers are going to give "5" Score on most of the Product.
+* In terms of Behavior of the Customers - Most of the time our "Customers" are going to prefer all these "Keywords" such as - "chip", "flavor", "like", "good", "great", "one", and many more.
+
 # 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
   
