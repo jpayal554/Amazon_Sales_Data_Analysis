@@ -24,7 +24,7 @@
 
 # ⏳ Dataset:
 Download the dataset for this project from following Link -
-* [Amazon Sales Dataset](https://github.com/Lokesh-Attarde/Global_SuperStore_Data_Analysis/blob/faa07f0eac512fa688af5f66aa214cd8cf10edfb/global_superstore_2016.xlsx)
+* [Amazon Sales Dataset](https://github.com/Lokesh-Attarde/Amazon_Sales_Data_Analysis/blob/eaefdf6b21ee86105116243d92c1d8edd09fb2c6/Amazon%20Sales%20Records.csv)
 
 # 📚 Data Analysis:
 In the datasets we are provided with following columns (Features) of data.
