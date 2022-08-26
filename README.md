@@ -62,7 +62,7 @@ Out of the 14 features given in the datasets 7 are Continuous and 7 (including t
   <img width="550" height="275" src="https://user-images.githubusercontent.com/84115928/186951729-445da393-fd0d-4e6a-993d-d9f17458d567.png">
 </p>
 
-# 🌱 Take a Glimpse of the Dashboard:
+# 🌱 Take a Glimpse of Stunning Dashboard:
 ![Glimpse 1](https://user-images.githubusercontent.com/84115928/186958120-1dba632d-3001-48f3-8597-bcb20fe1232f.gif)
 
 For more details, please go through the Web link given below -
