@@ -16,21 +16,57 @@
   <img src="https://user-images.githubusercontent.com/84115928/186946704-883b9440-0e02-496f-9558-c25bd6d7e688.png">
 </p>
 
-# ⏳ Dataset
+# 📝Problem Statement
+- Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise.
+- Do ETL : Extract-Transform-Load some Amazon dataset and find Sales-trend --> Month-wise, Year-wise, Yearly-Month wise.
+- Find key metrics and factors and show the meaningful relationships between attributes.
+- Do your own research and come up with your findings.
+
+# ⏳ Dataset:
 Download the dataset for this project from following Link -
-* [Global SuperStore Dataset](https://github.com/Lokesh-Attarde/Global_SuperStore_Data_Analysis/blob/faa07f0eac512fa688af5f66aa214cd8cf10edfb/global_superstore_2016.xlsx)
+* [Amazon Sales Dataset](https://github.com/Lokesh-Attarde/Global_SuperStore_Data_Analysis/blob/faa07f0eac512fa688af5f66aa214cd8cf10edfb/global_superstore_2016.xlsx)
+
+# 📚 Data Analysis:
+In the datasets we are provided with following columns (Features) of data.
+
+* Region : Region Name from which order was placed.
+* Country : Country Name from which order was placed.
+* Item Type : Product Category from which Items were ordered.
+* Sale Channel : Mode of a sale.
+* Order Priority : Delivery mode opted by the customer.
+* Order Date : Date on which order was placed.
+* Order ID : A unique order ID pertaining to each order placed.
+* Ship Date : Date on which order expected to be delivered.
+* Units Sold : Quantity of units sold.
+* Unit Price : Selling Price per unit of a product.
+* Unit Cost : Purchased cost per unit of a product.
+* Total Revenue : Total Revenue/Sales made.
+* Total Cost : Total cost which has invested.
+* Total Profit : Total Profit which is made after deducting the Total Cost from Total Revenue.
+
+Out of the 14 features given in the datasets 7 are Continuous and 7 (including the target variable) are Categorical features.
+
+# 🎉 Approach (Architecture):
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/84115928/186950659-5e8b6b9f-0fc3-48c6-be1b-f06ca1b0f64b.png">
+</p>
 
 # 🖥️ Technologies:
 ## 🛠️ Tools Used
-* Microsoft Excel and Power Query were used for Data Manipulation & Pre-Processing. 
-* Microsoft Power BI was used as an Business Intelligence Tool.
-* GitHub is used as version control system.
+*	Pandas, Microsoft Excel and Power Query were used for Data Manipulation & Pre-processing.
+*	Microsoft Power BI was used as a Business Intelligence tool.
+*	GitHub is used as version control system.
+*	These are all the tools and libraries were used to build the whole framework.
+
+<p align="center">
+  <img width="550" height="275" src="https://user-images.githubusercontent.com/84115928/186951729-445da393-fd0d-4e6a-993d-d9f17458d567.png">
+</p>
 
 # 🌱 Take a Glimpse of the Dashboard:
-![Glimpse 1](https://user-images.githubusercontent.com/84115928/186927781-c88fa9b7-1435-44f2-ae6f-267761bbde71.gif)
+![Glimpse 1](https://user-images.githubusercontent.com/84115928/186958120-1dba632d-3001-48f3-8597-bcb20fe1232f.gif)
 
 For more details, please go through the Web link given below -
-* [Global SuperStore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTlkZTg0MzItOTNhNi00NWU4LThlOTYtNGRlOWIwYzJkMDM2IiwidCI6IjYzYzJjYWI2LWVmOTEtNDk3My05ZTUyLTQ1NDM1MTY5ZTk1MSIsImMiOjEwfQ%3D%3D)
+* [Amazon Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ4OTc0ZjYtZWQwYy00ZmM2LWFjMzktOWZkM2VmYWVmZmNmIiwidCI6IjYzYzJjYWI2LWVmOTEtNDk3My05ZTUyLTQ1NDM1MTY5ZTk1MSIsImMiOjEwfQ%3D%3D)
 
 # 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
