@@ -74,14 +74,13 @@ For more details, please go through the Web link given below -
 - Besides this, after 2012 we can see the gradual decrease in Total Revenue.
 - Similarly, In terms of Months, February is prominent to make more Revenue followed by November and April.
 - However, In March & August, there is a meagre amount of Revenue was made.
-- From this “Line Chart”, we can vividly see that mostly on Week-ends Friday & Saturday, we have made more Revenue & Profit (I.e. 21.68%, 22.22% and 21.19%. 23.99%) respectively than the other days whereas on Thursday we have lowest Revenue & Profit. 
-- This “Pie Chart” represents that majority of Profit comes when the purchased was made through Offline mode (I.e. 56.42%) than Online mode (I.e. 43.58%) of Total Profit. 
-- This “Pie Chart” represents that majority of Customers opted for High Priority to deliver their Items/Products on priority basis.
+- Mostly on Week-ends Friday & Saturday, we have made more Revenue & Profit (I.e. 21.68%, 22.22% and 21.19%. 23.99%) respectively than the other days whereas on Thursday we have lowest Revenue & Profit.
+- Majority of Profit comes when the purchased was made through Offline mode (I.e. 56.42%) than Online mode (I.e. 43.58%) of Total Profit. 
+- Majority of Customers opted for High Priority to deliver their Items/Products on priority basis.
 - Therefore, Highest Profit were made with High Priority Orders of about $16.9M followed by Low Priority and Medium Priority Orders around $10.9M and $9.7M respectively.
-- This “Map” illustrates that most of the Revenue were made by Sub-Saharan Africa Region (I.e. 32.38%) followed by Europe and Asia Region made around 27.23% and 17.42%
-  respectively.
+- Most of the Revenue were made by Sub-Saharan Africa Region (I.e. 32.38%) followed by Europe and Asia Region made around 27.23% and 17.42% respectively.
 - In contrast, North America and Central America & the Caribbean regions stands below 15% in terms of Revenue generation.
-- This “Table Matrix” exhibits that Cosmetics Products were dominant the market who made highest Revenue & Profit of about $36.6M and $14.5M respectively followed by Office Supplies and Household products. 
+- Cosmetics Products were dominant the market who made highest Revenue & Profit of about $36.6M and $14.5M respectively followed by Office Supplies and Household products. 
 - On the contrary, Fruits are the lowest items followed Snacks and Beverages in terms of making Revenue & Profits.
 
 # 🎉 Help Me Improve
