@@ -66,7 +66,7 @@ Out of the 14 features given in the datasets 7 are Continuous and 7 (including t
 ![Glimpse 1](https://user-images.githubusercontent.com/84115928/186958120-1dba632d-3001-48f3-8597-bcb20fe1232f.gif)
 
 For more details, please go through the Web link given below -
-* [Amazon Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmJhOTkyMGUtNzkzYi00OGM3LTk0NjMtNjAwM2VmNzg0OWY1IiwidCI6IjYzYzJjYWI2LWVmOTEtNDk3My05ZTUyLTQ1NDM1MTY5ZTk1MSIsImMiOjEwfQ%3D%3D&pageName=ReportSection72b50b9da91d20058b85)
+* [Amazon Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ4OTc0ZjYtZWQwYy00ZmM2LWFjMzktOWZkM2VmYWVmZmNmIiwidCI6IjYzYzJjYWI2LWVmOTEtNDk3My05ZTUyLTQ1NDM1MTY5ZTk1MSIsImMiOjEwfQ%3D%3D&pageName=ReportSection72b50b9da91d20058b85)
 
 # 💡 Conclusions
 * In terms of Positive Summary - "Good", "love", "Delicious", "Best", "Great Product", "Excellent", etc. All these kinds of 'Positive Keywords' has a 'Higher Priority' than all other Words.
