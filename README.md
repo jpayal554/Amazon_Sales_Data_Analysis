@@ -68,9 +68,6 @@ Out of the 14 features given in the datasets 7 are Continuous and 7 (including t
 For more details, please go through the Web link given below -
 * [Amazon Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ4OTc0ZjYtZWQwYy00ZmM2LWFjMzktOWZkM2VmYWVmZmNmIiwidCI6IjYzYzJjYWI2LWVmOTEtNDk3My05ZTUyLTQ1NDM1MTY5ZTk1MSIsImMiOjEwfQ%3D%3D&pageName=ReportSection72b50b9da91d20058b85)
 
-# 🎯 Amazon Sales Dashboard Project -
-https://user-images.githubusercontent.com/84115928/187021074-a9a703d7-5433-46ba-9ec9-29e46ff80a20.mp4
-
 # 💡 Conclusions
 - In the year 2011, 2012 & 2017, we are failed to achieve the Target.
 - On the other hand, In the year 2016, we had successfully achieved the Target and made around 165.7% of our Budget. Hence, Total Revenue made was $12,372,867.2.
