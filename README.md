@@ -31,18 +31,18 @@ In the datasets we are provided with following columns (Features) of data.
 
 * **Region** : Region Name from which order was placed.
 * **Country** : Country Name from which order was placed.
-* **Item Type : Product Category from which Items were ordered.
-* **Sale Channel : Mode of a sale.
-* **Order Priority : Delivery mode opted by the customer.
-* **Order Date : Date on which order was placed.
-* **Order ID : A unique order ID pertaining to each order placed.
-* **Ship Date : Date on which order expected to be delivered.
-* **Units Sold : Quantity of units sold.
-* **Unit Price : Selling Price per unit of a product.
-* **Unit Cost : Purchased cost per unit of a product.
-* **Total Revenue : Total Revenue/Sales made.
-* **Total Cost : Total cost which has invested.
-* **Total Profit : Total Profit which is made after deducting the Total Cost from Total Revenue.
+* **Item Type** : Product Category from which Items were ordered.
+* **Sale Channel** : Mode of a sale.
+* **Order Priority** : Delivery mode opted by the customer.
+* **Order Date** : Date on which order was placed.
+* **Order ID** : A unique order ID pertaining to each order placed.
+* **Ship Date** : Date on which order expected to be delivered.
+* **Units Sold** : Quantity of units sold.
+* **Unit Price** : Selling Price per unit of a product.
+* **Unit Cost** : Purchased cost per unit of a product.
+* **Total Revenue** : Total Revenue/Sales made.
+* **Total Cost** : Total cost which has invested.
+* **Total Profit** : Total Profit which is made after deducting the Total Cost from Total Revenue.
 
 Out of the 14 features given in the datasets 7 are Continuous and 7 (including the target variable) are Categorical features.
 
